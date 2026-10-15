@@ -3,7 +3,7 @@
 
 **Explainable brain-tumour MRI classification with leakage-free evaluation, similar-case retrieval and citation-grounded summaries.**
 
-[![tests](https://github.com/<your-username>/brain-mri-rag/actions/workflows/tests.yml/badge.svg)](https://github.com/<your-username>/brain-mri-rag/actions)
+[![tests](https://github.com/raiyanmuntasir/brain-mri-rag/actions/workflows/tests.yml/badge.svg)](https://github.com/raiyanmuntasir/brain-mri-rag/actions)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
